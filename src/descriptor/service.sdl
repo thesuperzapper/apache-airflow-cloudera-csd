@@ -20,11 +20,6 @@
     "user" : "root",
     "group" : "root"
   },
-  "parcel" : {
-    "repoUrl" : "http://archive.clairvoyantsoft.com/airflow/parcels/{{ parcel_version }}/",
-    "requiredTags" : [ "airflow" ],
-    "sTags" : []
-  },
   "parameters" : [
     {
       "name" : "airflow_home",
