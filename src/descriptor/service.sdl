@@ -527,7 +527,7 @@
         "reinit_frequency" : "${reinit_frequency}",
         "principal" : "${principal}",
         "expose_config" : "${expose_config}",
-        "load_examples" : "${load_examples}"
+        "load_examples" : "${load_examples}",
         "AIRFLOW_CONFIG" : "/etc/airflow/conf/airflow.cfg",
         "DB_PASS" : "${database_password}",
         "CELERY_BROKER_PASS" : "${celery_broker_password}"
